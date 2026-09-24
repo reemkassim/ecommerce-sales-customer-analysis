@@ -99,3 +99,14 @@ The Power BI dashboard provides an interactive view of the analysis, including:
 ## Dashboard Preview
 
 ![Power BI Dashboard](dashboard.png)
+
+## Project Files
+
+- `E-commerce Sales & Customer Analysis.sql` – SQL analysis queries
+- `dashboard.png` – Power BI dashboard preview
+
+## Conclusion
+
+This project demonstrates the use of **SQL for data analysis** and **Power BI for business intelligence and visualization**.
+
+The analysis provides insights into sales trends, customer behaviour, product performance, payment methods, geographic revenue, and delivery performance.
