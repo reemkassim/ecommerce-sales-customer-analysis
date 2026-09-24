@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes Brazilian e-commerce sales and customer data to identify trends in sales performance, customer purchasing behavior, payment methods, product categories, geographic performance, and delivery times.
+This project analyses Brazilian e-commerce sales and customer data to identify trends in sales performance, customer purchasing behaviour, payment methods, product categories, geographic performance, and delivery times.
 
 The analysis was performed using **MySQL and Power BI** to turn raw e-commerce data into meaningful business insights and an interactive dashboard.
 
@@ -55,7 +55,7 @@ The main tables used were:
 
 ## SQL Analysis
 
-SQL was used to analyze:
+SQL was used to analyse:
 
 - Overall sales performance
 - Monthly revenue and order trends
