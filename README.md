@@ -53,6 +53,8 @@ The main tables used were:
 - `products`
 - `order_payments`
 
+Revenue and average order value calculations use product prices only and exclude freight charges.
+
 ## SQL Analysis
 
 SQL was used to analyse:
