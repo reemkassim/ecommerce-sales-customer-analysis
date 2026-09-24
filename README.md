@@ -96,3 +96,6 @@ The Power BI dashboard provides an interactive view of the analysis, including:
 - Average Delivery Time by Month
 - Revenue by Customer Type
 
+## Dashboard Preview
+
+![Power BI Dashboard](dashboard.png)
